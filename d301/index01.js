@@ -1,8 +1,8 @@
 
 
 function main() {
-// all d3 code goes here
-
+    // all d3 code goes here
+    
 d3.select('p')
     .style('color', 'salmon')
 
@@ -33,7 +33,7 @@ d3.select('.div03')
     .selectAll('td')
     .style('padding', '1rem')
     .style('outline', '1px dotted yellow')
-
-
-
+    
+    
+    
 }

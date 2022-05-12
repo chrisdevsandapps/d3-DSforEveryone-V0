@@ -2,6 +2,8 @@
 
 # D3 tutorial - V0
 
+https://github.com/chrisdevsandapps/d3-DSforEveryone-V0
+
 yt channel: data science for everyone
 
 playlist link: https://www.youtube.com/playlist?list=PLlbbWgBRF8EfU-MZNicdIGVKMIX-6krG8
@@ -19,6 +21,13 @@ version numbers for download:
 
 <br>
 <br>
+<br>
+
+
+## d302
+
+DOM manipulation
+
 <br>
 
 ## d301
